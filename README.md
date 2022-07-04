@@ -4,8 +4,8 @@
 
 CKAD exercises in this repo are of two different difficulty levels:
 
-1. [basic](./exercises/basic/about.md)
-2. advanced
+1. [basic](./exercises/basic/README.md)
+2. [advanced](./exercises/advanced/README.md)
 
 CKAD Curriculum: [link](https://github.com/cncf/curriculum)
 
